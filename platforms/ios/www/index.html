@@ -29,15 +29,15 @@
     <body>
         <div class="app">
             <h1>Apache Cordova</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Device is Ready</p>
-                <button id="signin">Signin</button>
+            <div>
+<!--                 <p class="event listening">Connecting to Device</p>
+                <p class="event received">Device is Ready</p> -->
+                <button type="button" id="signin">Signin</button>
             </div>
         </div>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="cordova-persona.js"></script>
-        <script type="text/javascript" src="js/index.js"></script>
+        <!-- // <script type="text/javascript" src="js/index.js"></script> -->
         <script>
             var signinLink = document.getElementById('signin');
             if (signinLink) {
