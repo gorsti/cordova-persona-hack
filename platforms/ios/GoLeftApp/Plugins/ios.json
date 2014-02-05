@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"config.xml":{"/widget/plugins":{"<plugin name=\"CBCordovaPersona\" value=\"CBCordovaPersona\" />":1}}},"installed_plugins":{"com.couchbase.persona":{"PACKAGE_NAME":"io.goleft.app"}},"dependent_plugins":{}}
